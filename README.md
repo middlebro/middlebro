@@ -1,4 +1,4 @@
-### Hi there 👋
+### HYEONG JUNG SEO <img src="https://github.com/middlebro/middlebro/blob/main/metamong.gif" width="30px">
 
 <!-- profile viewers count -->
 <div align=center>
