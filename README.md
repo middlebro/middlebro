@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-<!-- Github Stats -->
+<!-- profile viewers count -->
 <div align=center>
 
 ![](https://komarev.com/ghpvc/?username=middlebro&color=brightgreen)
 
 </div>
+
+<!-- Github Stats -->
+[![middlebro's github stats](https://github-readme-stats.vercel.app/api?username=middlebro)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Blog and Instagram Link Badge
