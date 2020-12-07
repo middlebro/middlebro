@@ -7,8 +7,25 @@
 
 </div>
 
+<!--
+### 🔭 Career
+- Attending in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2017.
+- I am currently working at **GeoSoft** in 2020.3. (Alternative Military Service)  
+-->
+
 <!-- Github Stats -->
 [![middlebro's github stats](https://github-readme-stats.vercel.app/api?username=middlebro)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🌱 Interest
+- **Natural Language Processing using Deep Learning**
+    - Information Retrieval
+    - Classification
+    - Translation
+
+### 👯 Hobby
+- **HomeTending**
+
 
 
 <!-- Blog and Instagram Link Badge
@@ -19,7 +36,7 @@
 
 </div>
 -->
-
+  
 <!--
 **middlebro/middlebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
