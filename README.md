@@ -15,6 +15,7 @@
 
 <!-- Github Stats -->
 [![middlebro's github stats](https://github-readme-stats.vercel.app/api?username=middlebro)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=middlebro&layout=compact)](https://github.com/middlebro/github-readme-stats)
 
 
 ### 🌱 Interest
@@ -31,8 +32,8 @@
 <!-- Blog and Instagram Link Badge
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-cs17.tistory.com/)](https://ys-cs17.tistory.com/)
-[![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/ys_cs17/)](https://www.instagram.com/ys_cs17/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://middlebro.github.io)](https://middlebro.github.io)
+[![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/hello_world.257)](https://www.instagram.com/hello_world.257)
 
 </div>
 -->
