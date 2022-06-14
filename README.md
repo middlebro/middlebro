@@ -1,5 +1,5 @@
-### HYEONG JUNG SEO ![](https://github.com/middlebro/middlebro/blob/main/metamong.gif | width=30)
-<img src="https://github.com/middlebro/middlebro/blob/main/metamong.gif" alt="" data-canonical-src="https://github.com/middlebro/middlebro/blob/main/metamong.gif" width="200" height="400" />
+### HYEONG JUNG SEO <img src="https://github.com/middlebro/middlebro/blob/main/metamong.gif" alt="" data-canonical-src="https://github.com/middlebro/middlebro/blob/main/metamong.gif" width="30"/>
+
 <!-- profile viewers count -->
 <div align=center>
 
