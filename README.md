@@ -23,9 +23,12 @@
     - Information Retrieval
     - Classification
     - Translation
+    
+- **Continual Learning**
 
 ### 👯 Hobby
 - **HomeTending**
+- **Snowboarding**
 
 
 
